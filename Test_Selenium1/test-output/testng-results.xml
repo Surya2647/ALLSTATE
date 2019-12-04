@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
+    <line>
+      <![CDATA[Create user]]>
+    </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="12097" started-at="2019-12-04T16:23:02Z" finished-at="2019-12-04T16:23:14Z">
+  <suite name="Suite" duration-ms="63" started-at="2019-12-04T20:49:21Z" finished-at="2019-12-04T20:49:21Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="12097" started-at="2019-12-04T16:23:02Z" finished-at="2019-12-04T16:23:14Z">
-      <class name="testBrowser.BrowserTest">
-        <test-method status="PASS" signature="testbrowser()[pri:0, instance:testBrowser.BrowserTest@20e2cbe0]" name="testbrowser" duration-ms="12059" started-at="2019-12-04T21:53:02Z" finished-at="2019-12-04T21:53:14Z">
+    <test name="Test" duration-ms="63" started-at="2019-12-04T20:49:21Z" finished-at="2019-12-04T20:49:21Z">
+      <class name="testBrowser.siteTest">
+        <test-method status="PASS" signature="creste_User()[pri:0, instance:testBrowser.siteTest@5419f379]" name="creste_User" duration-ms="16" started-at="2019-12-05T02:19:21Z" finished-at="2019-12-05T02:19:21Z">
           <reporter-output>
+            <line>
+              <![CDATA[Create user]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- testbrowser -->
-      </class> <!-- testBrowser.BrowserTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- creste_User -->
+      </class> <!-- testBrowser.siteTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

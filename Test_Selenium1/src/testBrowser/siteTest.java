@@ -9,5 +9,6 @@ public class siteTest
 	public void creste_User()
 	{
 		Reporter.log("Create user", true);
+		System.out.println("Create User");
 	}
 }
